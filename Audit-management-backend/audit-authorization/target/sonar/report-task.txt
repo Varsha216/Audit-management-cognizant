@@ -1,0 +1,6 @@
+projectKey=com.mfpe.project1:audit-authorization
+serverUrl=http://localhost:9000
+serverVersion=9.5.0.56709
+dashboardUrl=http://localhost:9000/dashboard?id=com.mfpe.project1%3Aaudit-authorization
+ceTaskId=AYJdU6YCWQ6mnxlxK4jO
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYJdU6YCWQ6mnxlxK4jO
